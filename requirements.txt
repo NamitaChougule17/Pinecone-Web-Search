@@ -1,0 +1,7 @@
+openai
+requests==2.31.0
+pinecone-client
+pandas==1.5.3
+python-docx==0.8.11
+PyPDF2==1.28.6
+openpyxl==3.0.10
